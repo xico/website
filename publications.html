@@ -26,6 +26,10 @@
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <link rel="icon" type="image/png" href="images/favicon.png">
+  
+  
+  <script src="script/jquery-3.2.1.min.js">
+  </script>
 
 </head>
 <body>
@@ -46,11 +50,24 @@
 	</div>
 
   <!-- Primary Page Layout
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  ––––––––––––––––––––––––––––––––––––––––––––––––––-->
   <div class="container">  
   
   	<div class="row" style="margin-top: 5rem">	
   		<h4>Publications</h4>
+  		
+  		
+  		<fieldset>
+  				<input type="checkbox" id="journalC" onclick='$(".journal").toggle();' checked>
+  				<label class="pubs" for="journalC">Journal articles</label>
+  				
+  				<input type="checkbox" id="conferenceC" onclick="$('.conference').toggle()" checked>
+  				<label class="pubs" for="conferenceC">Conference papers</label>
+  				<input type="checkbox" id="workshopC" onclick="$('.workshop').toggle()" checked>
+  				<label class="pubs" for="workshopC">Juried contributions (e.g., workshops)</label>
+  				<input type="checkbox" id="proceedingsC" onclick="$('.proceedings').toggle()" checked>
+  				<label class="pubs" for="proceedingsC">Edited proceedings</label>
+  		</fieldset>
   		
   		<h5>2017</h5>
   			<div class="journal" style="display:block">
@@ -80,7 +97,7 @@
 				</div>
 			</div>
 			
-			<div class="workshops" style="display:block">
+			<div class="workshop" style="display:block">
 				<div class="title">The medication reminder as enforcing a medicalised perspective on daily life</div>
 				<div class="authors">Francisco Nunes</div>
 				<div class="venue">Book of abstracts of the 6th STS Italia Conference, 56. <a href="papers/Nunes2016.pdf">PDF</a></div>
@@ -108,7 +125,7 @@
 				<div class="venue">Proc. of PervasiveHealth 2015, 141-144. <a href="papers/Gueldenpfennig2015.pdf">PDF</a> <a href="http://dx.doi.org/10.4108/icst.pervasivehealth.2015.259109">DOI</a></div>
 			</div>
 			
-			<div class="workshops" style="display:block">
+			<div class="workshop" style="display:block">
 				<div class="title">Designing Self-care Technologies for Everyday Life: A Practice Approach</div>
 				<div class="authors">Francisco Nunes</div>
 				<div class="venue">Proc. of CHI EA 2015, 215-218. <a href="papers/Nunes2015c.pdf">PDF</a> <a href="http://dx.doi.org/10.1145/2702613.2702624">DOI</a></div>
@@ -147,7 +164,7 @@
 				<div class="venue">Proc. of HCII 2013, 754-763. <a href="papers/Silva2013.pdf">PDF</a> <a href="http://dx.doi.org/10.1007/978-3-642-39454-6_81">DOI</a></div>
 			</div>
 			
-			<div class="workshops" style="display:block">
+			<div class="workshop" style="display:block">
 				<div class="title">Improving the Self-care of Parkinson's Through Ubiquitous Computing</div>
 				<div class="authors">Francisco Nunes</div>
 				<div class="venue">Proc. of Ubicomp Adjunct 2013. <a href="http://www.ubicomp.org/ubicomp2013/dc/nunes-jr-ds-crc.pdf">PDF</a></div>
@@ -182,6 +199,12 @@
 			</div>
 		
 		<h5>2011</h5>
+			<div class="workshop" style="display:block">
+				<div class="title">The Smartphone - A Mobile Companion for Older Adults</div>
+				<div class="authors">Francisco Nunes and Paula Alexandra Silva</div>
+				<div class="venue">Proc. of Promoting and Supporting Healthy Living by Design Workshop at INTERACT 2011, 41-43. <a href="papers/Nunes2011.pdf">PDF</a></div>
+			</div>
+		
 			<div class="conference" style="display:block">
 				<div class="title">Tangible Interaction on Tabletops for Elderly People</div>
 				<div class="authors">Tiago Marques, Francisco Nunes, Paula Alexandra Silva, and Rui Rodrigues</div>
@@ -209,10 +232,13 @@
 			</div>
 
 
+
+			
+
 <!--
 
-\years{2011}F. Nunes and, P. A. Silva (2011) ``The Smartphone -- A Mobile Companion for Older Adults", in \emph{Proc. of Promoting and Supporting Healthy Living by Design Workshop at INTERACT 2011}, 41--43.\\
 \years{2011}P. M. Teixeira, P. A. Silva, F. Nunes, and L. F. Teixeira (2011) ``Mover – Activity Monitor and Fall Detector for Android", in \emph{Proc. of Mobile Wellness Workshop at MobileHCI 2011}.\\
+
 \years{2010}F. Nunes, and P. A. Silva (2010) ``Fostering Wellness of Older Adults While Performing Usability Testing", in \emph{Proc. of HCI4WELL Workshop at HCI2010}.\\
 \years{2009}A. Aguiar, F. Nunes, M. Silva, and D. Elias (2009) ``Personal Navigator for a Public Transport System Using RFID Ticketing", in \emph{Proc. of inMotion09 Workshop at Pervasive 2009}. -->
 		

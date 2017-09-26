@@ -452,8 +452,15 @@ img.img-circle-small {
 	font-size: 0.95em;
 }
 
-.journal, .proceedings, .conference, .workshops {
+.journal, .proceedings, .conference, .workshop {
 	margin-bottom: 15px;
+}
+
+label.pubs {
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 0.95em;
+	font-weight: normal;
 }
 
 
