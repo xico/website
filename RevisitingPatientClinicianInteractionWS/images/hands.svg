@@ -234,15 +234,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.86532204"
-     inkscape:cx="238.12518"
-     inkscape:cy="621.40483"
+     inkscape:cx="219.38798"
+     inkscape:cy="520.53754"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1295"
-     inkscape:window-height="934"
-     inkscape:window-x="1968"
-     inkscape:window-y="23"
+     inkscape:window-height="930"
+     inkscape:window-x="2595"
+     inkscape:window-y="25"
      inkscape:window-maximized="0"
      inkscape:document-rotation="0" />
   <metadata
@@ -415,102 +415,6 @@
       <path
          d="m 87.51,95.48 a 10,10 0 0 0 7.08,-2.92 l 17,-17 A 10.005583,10.005583 0 0 0 97.41,61.44 l -17,17 a 10,10 0 0 0 7.07,17.07 z m 12.73,-31.21 a 6.0033366,6.0033366 0 0 1 8.49,8.49 l -7.07,7.07 -8.49,-8.49 z m -17,17 7.07,-7.07 8.49,8.49 -7.07,7.07 a 6.0033366,6.0033366 0 0 1 -8.49,-8.49 z"
          id="path1396" />
-    </g>
-    <g
-       id="g919"
-       transform="translate(8.1822009,-5.625)"
-       inkscape:export-xdpi="300"
-       inkscape:export-ydpi="300">
-      <g
-         id="g1514"
-         transform="matrix(1.4228963,0,0,1.3652795,287.94955,299.697)">
-        <polygon
-           class="cls-1"
-           points="63.62,38.84 57.17,49.18 70.06,49.18 "
-           id="polygon1480" />
-        <line
-           class="cls-1"
-           x1="50"
-           x2="50"
-           y1="94.139999"
-           y2="83.32"
-           id="line1482"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="50"
-           x2="50"
-           y1="16.68"
-           y2="5.8600001"
-           id="line1484"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="94.139999"
-           x2="83.32"
-           y1="50"
-           y2="50"
-           id="line1486"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="16.68"
-           x2="5.8600001"
-           y1="50"
-           y2="50"
-           id="line1488"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="81.209999"
-           x2="73.559998"
-           y1="81.209999"
-           y2="73.559998"
-           id="line1490"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="26.440001"
-           x2="18.790001"
-           y1="26.440001"
-           y2="18.790001"
-           id="line1492"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="81.209999"
-           x2="73.559998"
-           y1="18.790001"
-           y2="26.440001"
-           id="line1494"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-        <line
-           class="cls-1"
-           x1="26.440001"
-           x2="18.790001"
-           y1="73.559998"
-           y2="81.209999"
-           id="line1496"
-           style="stroke-width:3.45741;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.17855;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="rect1516"
-         width="36.059643"
-         height="51.199524"
-         x="360.30817"
-         y="343.30243" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:56.25px;line-height:1.25;font-family:sans-serif;fill:#0d0d0d;fill-opacity:1;stroke:none;stroke-width:0.9375"
-         x="329.5549"
-         y="388.40927"
-         id="text1421"><tspan
-           sodipodi:role="line"
-           id="tspan1419"
-           x="329.5549"
-           y="388.40927"
-           style="font-size:56.25px;fill:#0d0d0d;fill-opacity:1;stroke-width:0.9375">AI</tspan></text>
     </g>
   </g>
 </svg>
